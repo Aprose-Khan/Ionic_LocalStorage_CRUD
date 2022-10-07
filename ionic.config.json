@@ -1,0 +1,7 @@
+{
+  "name": "ionic_localCRUD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
